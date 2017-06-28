@@ -26,7 +26,7 @@
 		<img src="https://cdn.shopify.com/s/files/1/0725/9345/t/179/assets/EnjoyLogo_360.png?10250941477285961702" alt="" width="500" height="500">
 		<h2>Você é muito bem vindo(a) <?php echo $nome?></h2>
         <h4>Segue uma lista de músicas, muitíssimamente(não sei se esta palavra existe) maravilhosas</h4>
-        <h5>0. Esse sou eu - Sebastian Band
+		<h5>0. Esse sou eu - Sebastian Band </br>
             1. Ain't Talkin' 'Bout Love - Van Halen </br>
             2. All Along The Watchtower - Jimi Hendrix </br>
             3. All Day And All Of The Night - The Kinks </br>
